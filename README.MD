@@ -1,92 +1,34 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
+Introdução
+Bem-vindo ao nosso e-book "Desbravando o Tempo com o Coelho Branco"! Inspirado pelo conto clássico "Alice no País das Maravilhas" de Lewis Carroll, este e-book faz um paralelo entre as icônicas frases do Coelho Branco e os princípios de gestão do tempo.
 
+Propósito
+Este e-book tem como objetivo proporcionar reflexões e insights sobre como melhor administrar nosso tempo, utilizando a sabedoria atemporal do Coelho Branco. Queremos mostrar que, embora todos nós tenhamos as mesmas 24 horas por dia, a maneira como gerenciamos esse tempo pode fazer toda a diferença.
 
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
+Conteúdo
+1. O Coelho Branco e a Gestão do Tempo
+Introdução ao Coelho Branco e sua constante corrida contra o relógio.
 
--------
+2. Frases Icônicas e Lições de Gestão do Tempo
+"Estou atrasado, estou atrasado!"
 
+Lição: Evitar a procrastinação e iniciar tarefas com antecedência.
 
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
+"Eu não posso mais perder tempo!"
 
-# Projeto EBOOK Gerado por I.A.s
+Lição: Valorizar cada momento e planejar com eficiência.
 
+"Oh, meu Deus! Oh, meu Deus! Eu vou me atrasar!"
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+Lição: A importância de um bom planejamento para evitar ansiedade.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+"Não tenho tempo para isso agora."
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+Lição: Priorizar tarefas e distinguir o que é urgente do que é importante.
 
-## 💻 Tecnologias utilizadas no projeto
+3. Reflexões sobre o Tempo e Autoconhecimento
+Discussão sobre a importância de entender nossos limites e prioridades para uma melhor gestão do tempo.
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+Conclusão
+Esta foi uma pequena brincadeira comparando o conto "Alice no País das Maravilhas" com frases motivacionais para refletirmos sobre a gestão do nosso tempo. A verdade é que todos possuem as mesmas 24 horas, mas devido a diversos fatores, incluindo os sociais, cada indivíduo administra seu tempo de maneiras diferentes. No final, a corrida não é por mais tempo, mas sim por mais autoconhecimento sobre nossos limites e prioridades, para que possamos fazer uma gestão do tempo mais eficaz e equilibrada.
 
-## 🧠 Prompts
-
-
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
-
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ por [Juliana Torres](https://https://github.com/JCT80/prompts-recipe-to-create-a-ebook/edit/main/README.MD) 
